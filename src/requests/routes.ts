@@ -1,0 +1,6 @@
+export const prefetchBaseUrl = '/prefetch'
+export const apiBaseUrl = '/api'
+export const index = '/'
+export const login = '/auth/login'
+export const register = '/auth/register'
+export const user = '/user'
